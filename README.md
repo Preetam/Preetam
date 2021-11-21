@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi 👋
 
 I’m a Go developer in the San Francisco Bay Area.
 
